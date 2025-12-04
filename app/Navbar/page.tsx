@@ -20,7 +20,7 @@ const Navbar = () => {
   const navLinks = [
     { name: 'Home', href: '/', icon: <Home className="h-4 w-4" /> },
     { name: 'Appointment', href: '/Appointment', icon: <Calendar className="h-4 w-4" /> },
-    { name: 'Doctors', href: '/doctors', icon: <User className="h-4 w-4" /> },
+  
     { name: 'Contact', href: '/contact', icon: <Contact className="h-4 w-4" /> },
   ];
 
