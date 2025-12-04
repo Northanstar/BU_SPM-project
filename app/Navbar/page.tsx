@@ -39,7 +39,7 @@ const Navbar = () => {
             <Link href="/" className="flex items-center space-x-3">
               <div className="relative h-12 w-12 rounded-full bg-white p-1">
                 <Image
-                  src="/logo.png"
+                  src="/download (1).jpeg"
                   alt="MediCare Logo"
                   width={48}
                   height={48}
